@@ -3,7 +3,7 @@ import requests
 
 st.set_page_config(page_title="E-commerce Admin", layout="centered")
 
-URL_API = "http://localhost:5041/api/categoria"
+URL_API = "https://comercio-eletronico-api-csharp-production.up.railway.app/api/categoria"
 
 st.title("Painel de Controle - Categorias")
 st.subheader("Integração Python (Front-end) + C# (Back-end)")

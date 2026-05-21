@@ -1,7 +1,7 @@
 import requests
 
 # Endereço base da sua API C#
-URL_BASE = "http://localhost:5041/api"
+URL_BASE = "https://comercio-eletronico-api-csharp-production.up.railway.app/api"
 
 print("=== TESTANDO CONEXÃO PYTHON -> C# ===")
 
